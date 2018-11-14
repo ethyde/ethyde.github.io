@@ -1,0 +1,11 @@
+{
+  "name": "test-pwa",
+  "version": "0.0.1",
+  "description": "Testing PWA",
+  "main": "main.js",
+  "config": {},
+  "scripts": {},
+  "author": "PMD",
+  "devDependencies": {},
+  "dependencies": {}
+}
