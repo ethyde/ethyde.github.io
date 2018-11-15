@@ -1,9 +1,10 @@
 const CACHE_NAME = 'PMD-PWA-V1'
 const DATA_CACHE_NAME = 'PMD-PWA-DATA-V1'
 const STATIC_ASSET = [
-  './index.html',
-  './main.js',
-  './main.css'
+  '/',
+  '/index.html',
+  '/main.js',
+  '/main.css'
 ]
 
 const LATER_USED_ASSETS = []
